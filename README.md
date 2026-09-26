@@ -38,8 +38,8 @@ AI Automation ───────────── Autonomous Agents · Orche
 
 | Project | Description | Role / Status |
 | :--- | :--- | :--- |
-| [**MyOpenKey**](https://github.com/hqdvn/MyOpenKey) | Bộ gõ tiếng Việt hiện đại, thanh lịch và mượt mà dành riêng cho macOS. | Author & Maintainer |
-| [**NukeViet CMS**](https://github.com/hqdvn/nukeviet) | The first and premier open-source Content Management System in Vietnam. | Open Source Contributor |
+| [**MyOpenKey**](https://github.com/hqdvn/MyOpenKey) | Modern, elegant, and lightweight native Vietnamese input method engine for macOS. | Author & Maintainer |
+| [**NukeViet CMS**](https://github.com/hqdvn/nukeviet) | The first and premier open-source Content Management System in Vietnam. | Core Contributor |
 | [**HQD.vn**](https://hqd.vn) | Personal digital identity, engineering journal, and technical knowledge hub. | Creator |
 
 ---
